@@ -1,0 +1,10 @@
+{
+  "name": "openclaw-genpark-crm",
+  "version": "1.0.0",
+  "description": "OpenClaw GenPark CRM - Continuous RFM quintiles and BG/NBD Customer Lifetime Value engine with churn opportunity loss auditing.",
+  "tools": [
+    "calculate_continuous_rfm_score",
+    "compute_clv_bg_nbd",
+    "detect_churn_opportunity_loss"
+  ]
+}
